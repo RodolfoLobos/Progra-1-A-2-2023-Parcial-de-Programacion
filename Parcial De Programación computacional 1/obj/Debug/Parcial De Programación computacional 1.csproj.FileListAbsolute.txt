@@ -1,0 +1,10 @@
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\bin\Debug\Parcial_De_Programación_computacional_1.exe.config
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\bin\Debug\Parcial_De_Programación_computacional_1.exe
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\bin\Debug\Parcial_De_Programación_computacional_1.pdb
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\obj\Debug\Parcial De Programación computacional 1.csproj.AssemblyReference.cache
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\obj\Debug\Parcial_De_Programación_computacional_1.Form1.resources
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\obj\Debug\Parcial_De_Programación_computacional_1.Properties.Resources.resources
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\obj\Debug\Parcial De Programación computacional 1.csproj.GenerateResource.cache
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\obj\Debug\Parcial De Programación computacional 1.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\obj\Debug\Parcial_De_Programación_computacional_1.exe
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A-2-2023-Parcial-de-Programacion\Parcial De Programación computacional 1\obj\Debug\Parcial_De_Programación_computacional_1.pdb
